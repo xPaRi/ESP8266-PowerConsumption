@@ -4,3 +4,5 @@
 -- Novy
 -- Jiny
 -- A jeste jiny
+
+-- uložíme pres VS code

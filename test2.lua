@@ -8,4 +8,5 @@
 -- uložíme pres VS code
 
 -- a další
----DDD
+-- DDD
+-- Odinstalování Gitu, ponechání jen GitHub Desktop

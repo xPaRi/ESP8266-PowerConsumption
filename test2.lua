@@ -1,0 +1,2 @@
+-- TEST 2
+-- Prechod do spanku
